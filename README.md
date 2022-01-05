@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="/labs/pickandplacereallife.gif" />
+  <img src="/labs/pickandplace.gif" />
 </p>
 
 
